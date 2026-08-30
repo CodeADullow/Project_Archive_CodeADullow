@@ -1,0 +1,89 @@
+# yaml-language-server: $schema=https://gitresume.co/schema/resume.schema.json
+personalInfo:
+  name: Abbas Dullow
+  title: University Student
+  email: abbas.dullow@gmail.com
+  phone: "+61466486820"
+  location: Sydney, NSW
+  links:
+    - label: Plunderchess
+      url: https://github.com/CodeADullow/Migrated-Project-C-Chess-Game-Variant---PlunderChess
+    - label: Shape of Uno
+      url: https://github.com/CodeADullow/Migrated-Project-Uno-Reconstruction
+    - label: TicTacToe
+      url: https://github.com/CodeADullow/Migrated-Project-Java-CLI-TicTacToe
+    - label: BlinkTest
+      url: https://github.com/CodeADullow/Migrated-Project-Processing-Blink-Game
+sections:
+  - type: summary
+    title: Summary
+    content: "I’m an adaptable, steadfast programmer and designer with over four years’ experience, generalising in UI/UX, Database and Networks, and Algorithms. "
+  - type: education
+    title: Education/Qualification-1
+    items:
+      - institution: Crestwood High School
+        degree: High School Certificate
+        location: 60 Chapel Ln, Sydney NSW
+        startDate: 2019-02
+        endDate: 2024-11
+  - type: education
+    title: Education/Qualification-2
+    items:
+      - institution: Academy of Interactive Entertainment
+        degree: Certificate of Merit
+        location: 33 Mountain Street Ultimo, Sydney Campus, NSW
+        startDate: 2022-04
+        endDate: 2022-05
+  - type: education
+    title: Education/Qualification-3
+    items:
+      - institution: Macquarie University
+        degree: Bachelor of IT
+        location: 14 Sir Christopher Ondaatje Ave, Macquarie Park NSW
+        startDate: 2025-02
+        endDate: Current
+  - type: skills
+    title: Skills
+    items:
+      - category: Frontend Programming
+        items:
+          - HTML
+          - CSS
+          - Javascript
+      - category: Application Modelling & Development
+        items:
+          - Firebase
+          - Javascript
+          - Lucidcharts
+      - category: Database Management
+        items:
+          - MySQL
+          - PHP
+          - Microsoft-Access
+          - Microsoft-Excel
+      - category: Backend Programming
+        items:
+          - Javascript
+          - Java(Optional)
+          - MySQL
+      - category: Object Oriented Programming
+        items:
+          - Java
+          - Python
+          - C#
+      - category: Data Structures & Algorithms
+        items:
+          - Discreet-Mathematics
+          - Java
+      - category: Project Management
+        items:
+          - Jira
+          - Confluence
+          - Whatsapp
+          - Discord
+  - type: list
+    title: Interests
+    items:
+      - Anime/Manga
+      - Design
+      - Video Games
