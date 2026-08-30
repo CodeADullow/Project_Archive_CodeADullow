@@ -10,3 +10,6 @@
 [submodule "Migrated-Project-C-Chess-Game-Variant---PlunderChess"]
 	path = Migrated-Project-C-Chess-Game-Variant---PlunderChess
 	url = https://github.com/CodeADullow/Migrated-Project-C-Chess-Game-Variant---PlunderChess.git
+[submodule "Migrated-Project-RealEstate-ConditionalReport"]
+	path = Migrated-Project-RealEstate-ConditionalReport
+	url = https://github.com/CodeADullow/Migrated-Project-RealEstate-ConditionalReport.git
