@@ -1,0 +1,12 @@
+[submodule "Migrated-Project-Processing-Blink-Game"]
+	path = Migrated-Project-Processing-Blink-Game
+	url = https://github.com/CodeADullow/Migrated-Project-Processing-Blink-Game.git
+[submodule "Migrated-Project-Uno-Reconstruction"]
+	path = Migrated-Project-Uno-Reconstruction
+	url = https://github.com/CodeADullow/Migrated-Project-Uno-Reconstruction.git
+[submodule "Migrated-Project-Java-CLI-TicTacToe"]
+	path = Migrated-Project-Java-CLI-TicTacToe
+	url = https://github.com/CodeADullow/Migrated-Project-Java-CLI-TicTacToe.git
+[submodule "Migrated-Project-C-Chess-Game-Variant---PlunderChess"]
+	path = Migrated-Project-C-Chess-Game-Variant---PlunderChess
+	url = https://github.com/CodeADullow/Migrated-Project-C-Chess-Game-Variant---PlunderChess.git
